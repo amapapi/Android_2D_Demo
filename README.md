@@ -15,12 +15,12 @@ Android_2D_Demo
 
 ## 使用方法： 
 
-*[使用方法](http://developer.amap.com/api/android-sdk/summary/)
+[使用方法](http://developer.amap.com/api/android-sdk/summary/)
 
 ## 下载资源如下： 
 
-*[实例应用](https://github.com/amapapi/Android_2D_Demo/raw/master/resources/AMapSDK2D_Demo.apk) (apk)
++ [实例应用](https://github.com/amapapi/Android_2D_Demo/raw/master/resources/AMapSDK2D_Demo.apk) (apk)
 
-*扫一扫下载应用  
++ 扫一扫下载应用  
 
 ![图片]( https://raw.githubusercontent.com/amapapi/Android_2D_Demo/master/resources/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
